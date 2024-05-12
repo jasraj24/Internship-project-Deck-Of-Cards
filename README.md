@@ -1,7 +1,7 @@
 # Internship Project Deck of Cards
 
 # Java Code
-
+'''
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;
@@ -125,6 +125,6 @@ public class Main {
         }
     }
 }
-
+'''
 
 # By Jasraj Singh
