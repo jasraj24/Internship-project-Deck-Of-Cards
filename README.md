@@ -1,3 +1,3 @@
-# Internship-project-Deck-Of-Cards
+# Internship Project Deck of Cards
 
 By Jasraj Singh
